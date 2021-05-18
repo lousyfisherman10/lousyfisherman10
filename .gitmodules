@@ -1,0 +1,15 @@
+[submodule "lousyfisherman1"]
+	path = lousyfisherman1
+	url = https://lousyfisherman1
+[submodule "lousyfisherman10"]
+	path = lousyfisherman10
+	url = https://lousyfisherman1
+[submodule "https://write"]
+	path = https://write
+	url = https://lousyfisherman10
+[submodule "https://"]
+	path = https://
+	url = https://lousyfisherman10
+[submodule "lousyfisherman10@git"]
+	path = lousyfisherman10@git
+	url = git@github.com:lousyfisherman10/lousyfisherman10.git
