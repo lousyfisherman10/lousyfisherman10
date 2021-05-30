@@ -1,0 +1,1 @@
+/echo "# lousyfisherman10" >> README.md git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https:/github.com/lousyfisherman10/whatsremoved 12-7-2020.txt
